@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi 👋, I'm Sangam Warpade
+------------------------------------------------------------------------------------------
+A passionate developer
 
-<!--
-**sangam2516/sangam2516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently studying in RSCOE Pune.
+- 🌱 I’m currently learning iT technologies and many more...
+- 📫 How to reach me: sangamwarpade4@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I train models by day and fight CSS bugs by night.
 -->
+## 🌐 Connect with me:
+
+<a href="https://linkedin.com/in/sangam-warpade-505313327">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com/sangam_warpade_04">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+## 💻 Languages and Tools:
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,react,nodejs,mysql,php,git,html,css,js,figma,cpp" /></p>
