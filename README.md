@@ -21,4 +21,4 @@ A passionate developer
 ## 💻 Languages and Tools:
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,react,nodejs,mysql,php,git,html,css,js,figma,cpp" /></p>
+<img src="https://skillicons.dev/icons?i=python,java,react,nodejs,mysql,php,git,html,css,js,figma,vscode,cpp" /></p>
